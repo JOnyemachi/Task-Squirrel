@@ -12,4 +12,3 @@ Lab 4 assignment for iOS102
     
 [x] View a list of tasks to be completed for the scavenger hunt
   • Doing this marks the task as completed in both the detail view and task list
-  • Doing this marks the task as completed in both the detail view and task list
